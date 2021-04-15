@@ -1,0 +1,7 @@
+{
+  "name": "react-iv-v5-api-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
